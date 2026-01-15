@@ -85,7 +85,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    right: 30;
+    right: 0;
     z-index: 1000;
     box-shadow: var(--shadow-md);
 }
@@ -112,7 +112,7 @@ body {
 .breadcrumb {
     display: flex;
     align-items: center;
-    gap: var(--spacing-sm);
+    gap: var(--spacing-lg);
     font-size: var(--font-size-lg);
 }
 
